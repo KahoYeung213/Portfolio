@@ -1,0 +1,89 @@
+[
+    {
+        "slug": "react-todo-app",
+        "demo": "todo-app",
+        "title": "React Todo App",
+        "description": "This was my first react application. I used local storage to create a todo list",
+        "categories": ["Front-End Development"],
+        "technologies": ["React.js ", "Bootstrap CSS "],
+        "image": [
+            {
+                "caption": "Screenshot 1",
+                "url": "todo-1.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://react-todo.web.app"
+            }
+        ],
+        "date": "2024",
+        "github": "https://github.com/KahoYeung213?tab=repositories"
+    },
+    {
+        "slug": "react-todo-app design",
+        "demo": "todo-app",
+        "title": "React Todo App Design",
+        "description": "This was my first react application. I used local storage to create a todo list",
+        "categories": ["Front-End Development", "Design"],
+        "technologies": ["React.js ", "Bootstrap CSS "],
+        "image": [
+            {
+                "caption": "Screenshot 1",
+                "url": "todo-1.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://react-todo.web.app"
+            }
+        ],
+        "date": "2024",
+        "github": "https://github.com/KahoYeung213?tab=repositories"
+    },
+    {
+        "slug": "Greenville-Website",
+        "demo": "",
+        "title": "Greenville Website",
+        "description": "This was a redesign of Greenville Deli's website.",
+        "categories": ["Design"],
+        "technologies": ["SCSS ", "Bootstrap CSS "],
+        "image": [
+            {
+                "caption": "Greenville",
+                "url": "Greenville.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Greenville Website",
+                "url": "https://greenvillewebsite.netlify.app/"
+            }
+        ],
+        "date": "2023",
+        "github": "https://github.com/KahoYeung213/Greenville-CA2"
+    },
+    {
+        "slug": "react-giphy",
+        "title": "React Giphy App 2",
+        "description": "This was my second react application that connected to an API displaying gifs",
+        "categories": ["Front-End Development"],
+        "technologies": ["React.js ", "Bootstrap CSS ", "Axios ", "APIs"],
+        "image": [
+            {
+                "caption": "Screenshot 1",
+                "url": "giphy-1.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Video Link",
+                "url": "https://www.youtube.com/watch?v=yq8823NQ9qY&ab_channel=KahoYeung"
+            }
+        ],
+        "date": "2024",
+        "github": "https://github.com/KahoYeung213/GameDev/tree/master"
+    }
+]
