@@ -1,5 +1,27 @@
 [
     {
+        "slug": "medical-clinic",
+        "demo": "",
+        "title": "Medical Clinic",
+        "description": "This was a website for a medical clinic. using api requests to create read update and delete data.",
+        "categories": ["Design","Front-End Development","API"],
+        "technologies": ["React.js ", "Tailwind CSS","APIs","Axios"],
+        "image": [
+            {
+                "caption": "medical clinic",
+                "url": "medicalclinic.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Medical Clinic Website",
+                "url": "https://greenvillewebsite.netlify.app/"
+            }
+        ],
+        "date": "2024",
+        "github": "https://github.com/KahoYeung213/Medical-Clinic-CA2"
+    },
+    {
         "slug": "react-todo-app",
         "demo": "todo-app",
         "title": "React Todo App",
