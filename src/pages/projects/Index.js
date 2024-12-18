@@ -5,7 +5,7 @@ import FilterProjects from '../../components/FilterProjects';
 import { Grid } from "@chakra-ui/react"
 
 const Index = () => {
-    const [projectsList, setProjectsList] = useState(projectsJSON);
+    const [projectsList] = useState(projectsJSON);
     const [searchTerm, setSearchTerm] = useState("");
     const [filteredList, setFilteredList] = useState(projectsJSON);
     const [selectedCategory, setSelectedCategory] = useState("All");
